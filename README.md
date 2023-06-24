@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-👨‍💻 Como desarrollador web y músico apasionado, disfruto explorar constantemente nuevas tecnologías y herramientas para mejorar mis habilidades y crear soluciones innovadoras.
+👨‍💻 Como desarrollador web y músico apasionado, disfruto explorar constantemente nuevas tecnologías y herramientas para mejorar mis habilidades y crear soluciones efectivas.
 
 🎸 Además de programar, mi tiempo libre lo dedico a tocar la guitarra 🎶, una pasión que me acompaña desde hace años. También disfruto de la lectura 📚 y me sumerjo en una amplia variedad de libros para expandir mi conocimiento y perspectiva. Para mantenerme en forma y enfocado, practico baloncesto 🏀 y fútbol ⚽, deportes que me permiten mantener un equilibrio entre mente y cuerpo.
 
